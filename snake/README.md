@@ -1,10 +1,6 @@
-
-![image](./public/favicon.ico)
-
 # Snake Game
 
-
-
+![image](./public/favicon.ico)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
